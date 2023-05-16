@@ -1,3 +1,5 @@
+Student project for Nubias Defragmentation Trainingschool TS2. Created by volker-baecker: Original: https://github.com/Neubias-WG5/W_NucleiSegmentation-Cellpose
+
 # W_NucleiSegmentation-Cellpose
 
 2D nuclei segmentation using Cellpose (https://github.com/MouseLand/cellpose) and the pre-trained nuclei segmentation models of Cellpose.
